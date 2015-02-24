@@ -1,0 +1,6 @@
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://devonirish@github.com/twbs/bootstrap.git
+[submodule "library"]
+	path = library
+	url = https://devonirish@github.com/justintadlock/hybrid-core.git
